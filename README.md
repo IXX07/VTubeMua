@@ -1,2 +1,2 @@
 # VTubeMua
-A simple VTube Application for Windows.
+A simple VTube Windows Forms Application.
